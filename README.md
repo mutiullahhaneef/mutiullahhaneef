@@ -33,28 +33,23 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h2>🌌 About Me</h2>
-      <ul>
-        <li>🔭 I’m currently building cutting-edge <b>Data Science models, AI/ML workflows</b>, and <b>intelligent backends</b>.</li>
-        <li>🌱 I’m constantly learning and diving deep into <b>Deep Learning, Generative AI, and Advanced Analytics</b>.</li>
-        <li>👯 I’m always open to collaborating on <b>Open Source AI projects</b> and <b>innovative Tech Solutions</b>.</li>
-        <li>💬 Ask me about <b>Python, Machine Learning architectures, scalable APIs, and data pipelines</b>.</li>
-        <li>⚡ Fun fact: I love transforming complex, messy data into clean, intuitive, and engaging digital experiences!</li>
-      </ul>
-    </td>
-    <td valign="top" width="45%">
-      <h2>🏆 GitHub Trophies</h2>
-      <div align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=mutiullahhaneef&theme=tokyonight&margin-w=15&margin-h=15&column=3&no-bg=true&no-frame=true" alt="Trophies" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+## 🌌 About Me
+
+- 🔭 I’m currently building cutting-edge **Data Science models, AI/ML workflows**, and **intelligent backends**.
+- 🌱 I’m constantly learning and diving deep into **Deep Learning, Generative AI, and Advanced Analytics**.
+- 👯 I’m always open to collaborating on **Open Source AI projects** and **innovative Tech Solutions**.
+- 💬 Ask me about **Python, Machine Learning architectures, scalable APIs, and data pipelines**.
+- ⚡ Fun fact: I love transforming complex, messy data into clean, intuitive, and engaging digital experiences!
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mutiullahhaneef/mutiullahhaneef/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mutiullahhaneef/mutiullahhaneef/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mutiullahhaneef/mutiullahhaneef/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
