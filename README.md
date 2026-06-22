@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Building intelligent solutions and exploring the universe of data! 🌌</strong>
+    <strong>Building intelligent solutions and exploring the universe of data!</strong>
   </p>
 
   <p align="center">
@@ -33,7 +33,7 @@
 
 <br/>
 
-## 🌌 About Me
+## About Me
 
 - 🔭 I’m currently building cutting-edge **Data Science models, AI/ML workflows**, and **intelligent backends**.
 - 🌱 I’m constantly learning and diving deep into **Deep Learning, Generative AI, and Advanced Analytics**.
