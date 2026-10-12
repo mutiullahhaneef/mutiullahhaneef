@@ -35,11 +35,10 @@
 
 ## About Me
 
-- 🔭 I’m currently building cutting-edge **Data Science models, AI/ML workflows**, and **intelligent backends**.
-- 🌱 I’m constantly learning and diving deep into **Deep Learning, Generative AI, and Advanced Analytics**.
-- 👯 I’m always open to collaborating on **Open Source AI projects** and **innovative Tech Solutions**.
-- 💬 Ask me about **Python, Machine Learning architectures, scalable APIs, and data pipelines**.
-- ⚡ Fun fact: I love transforming complex, messy data into clean, intuitive, and engaging digital experiences!
+- I’m currently building cutting-edge **Data Science models, AI/ML workflows**, and **intelligent backends**.
+- Constantly learning and diving deep into **Deep Learning, Generative AI, and Advanced Analytics**.
+- Open to collaborating on **Open Source AI projects** and **innovative Tech Solutions**.
+
 
 ---
 
